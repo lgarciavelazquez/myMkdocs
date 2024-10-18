@@ -1,0 +1,10 @@
+site_name: Mi super proyecto Youtube
+site_url: http://lgarciavelazquez.github.io/myMkdocs/
+nav:
+  - Home: index.md
+  - Varias cosas: varios.md
+  - Otras: otros.md
+
+# theme: readthedocs
+theme: terminal
+
