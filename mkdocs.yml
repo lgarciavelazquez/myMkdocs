@@ -1,5 +1,7 @@
 site_name: Mi super proyecto Youtube
 site_url: http://lgarciavelazquez.github.io/myMkdocs/
+site_dir: /docs
+docs_dir: /pages
 nav:
   - Home: index.md
   - Varias cosas: varios.md
